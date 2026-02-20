@@ -1,0 +1,7 @@
+chromadb
+sentence-transformers
+requests
+feedparser
+pymupdf
+numpy
+openai
